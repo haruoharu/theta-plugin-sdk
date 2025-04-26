@@ -38,4 +38,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.theta360:pluginlibrary:4.0.0'
+    implementation 'com.github.webrtc-sdk:android:104.5112.01'
+    implementation 'tech.gusavila92:java-android-websocket-client:1.2.2'
 }

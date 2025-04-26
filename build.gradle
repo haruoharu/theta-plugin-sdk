@@ -18,6 +18,7 @@ allprojects {
         google()
         mavenCentral()
         maven { url 'https://github.com/ricohapi/theta-plugin-library/raw/master/repository' }
+        maven { url 'https://jitpack.io' }
     }
 }
 
